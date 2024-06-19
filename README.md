@@ -61,12 +61,12 @@ Run the queries in `insert_query.txt` to create Trains and seats for passengers.
 
 ## Frontend Web Pages
 #### Train Search Page
-![Alt text](<Train Search.jpg>)
+![Alt text](<Train Search.png>)
 
 <br/>
 
 #### Google Authentication for Secure Login
-![Alt text](<Google Authentication.jpg>)
+![Alt text](<Google Authentication.png>)
 
 <br/>
 
@@ -74,28 +74,28 @@ Run the queries in `insert_query.txt` to create Trains and seats for passengers.
 - Black: Booked
 - Green: Selected
 - Gray: Available
-![Alt text](<Seat Selection.JPEG>) 
+![Alt text](<Seat Selection.png>) 
 
 <br/>
 
 #### Payment Page
-![Alt text](Payment.JPEG) 
+![Alt text](Payment.png) 
 
 <br/>
 
 #### Train Seat Booking Confirmation
-![Alt text](<Booking Confirmation.jpg>) 
+![Alt text](<Booking Confirmation.png>) 
 
 <br/>
 
 #### Manage Bookings
-![Alt text](<User All Bookings.JPEG>) 
+![Alt text](<User All Bookings.png>) 
 
 <br/>
 
 #### Admin Pages
-![Alt text](<Admin All Trains.JPEG>) 
-![Alt text](<Reservation List for Train.jpg>) 
-![Alt text](<Update Train.JPEG>)  
+![Alt text](<Admin All Trains.png>) 
+![Alt text](<Reservation List for Train.png>) 
+![Alt text](<Update Train.png>)  
 
 <br/>
