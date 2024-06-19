@@ -94,8 +94,8 @@ Run the queries in `insert_query.txt` to create Trains and seats for passengers.
 <br/>
 
 #### Admin Pages
-![Alt text](<Admin All Trains.png>) 
+![Alt text](<All Train Admin.png>) 
 ![Alt text](<Reservation List for Train.png>) 
-![Alt text](<Update Train.png>)  
+![Alt text](<Train update.png>)  
 
 <br/>
