@@ -66,7 +66,7 @@ Run the queries in `insert_query.txt` to create Trains and seats for passengers.
 <br/>
 
 #### Google Authentication for Secure Login
-![Alt text](<Google Authentication.png>)
+![Alt text](<Google Auth.png>)
 
 <br/>
 
