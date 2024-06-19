@@ -89,13 +89,13 @@ Run the queries in `insert_query.txt` to create Trains and seats for passengers.
 <br/>
 
 #### Manage Bookings
-![Alt text](<User All Bookings.png>) 
+![Alt text](<Booking Details.png>) 
 
 <br/>
 
 #### Admin Pages
 ![Alt text](<All Train Admin.png>) 
-![Alt text](<Reservation List for Train.png>) 
+![Alt text](<Admin Search by Train Number.png>) 
 ![Alt text](<Train update.png>)  
 
 <br/>
